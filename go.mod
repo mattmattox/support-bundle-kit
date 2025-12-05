@@ -73,7 +73,7 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/rancher/lasso v0.0.0-20220519004610-700f167d8324
 	github.com/rancher/wrangler v1.0.1-0.20220520195731-8eeded9bae2a
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.1
 	github.com/spf13/cobra v1.6.0
 	github.com/spf13/viper v1.8.1
 	github.com/virtual-kubelet/node-cli v0.7.0
